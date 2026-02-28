@@ -4,14 +4,6 @@
   <a href="https://github.com/fcoury/fcoury/"><img src="https://komarev.com/ghpvc/?username=fcoury" alt="fcoury" /></a>
   <a href="https://github.com/fcoury"><img height="20" src="https://img.shields.io/github/followers/fcoury?label=follow&logo=github&style=flat" /></a>
   <a href="https://github.com/fcoury"><img height="20" src="https://img.shields.io/github/stars/fcoury?logo=github&style=flat" /></a>
-  <a href="https://gitstar-ranking.com/fcoury"><img height="20" src="https://img.shields.io/endpoint?label=star ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Ffcoury%2Fshields" /></a>
-</p>
-
-### Recent Activities
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=fcoury&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=fcoury&theme=transparent&hide_border=true" /></a>
 </p>
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fcoury&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
